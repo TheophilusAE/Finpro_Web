@@ -1,4 +1,5 @@
- const sidebar = document.getElementById("sidebar");
+ $(document).ready(function(){
+const sidebar = document.getElementById("sidebar");
     const overlay = document.getElementById("overlay");
     const toggleSidebarMain = document.getElementById("sidebarToggleMain");
     const contentWrapper = document.getElementById("contentWrapper");
@@ -521,3 +522,6 @@
     timeRangeSelect.addEventListener("change", () => {
       updateIncomeOutcomeChart();
     });
+
+ })
+ 
