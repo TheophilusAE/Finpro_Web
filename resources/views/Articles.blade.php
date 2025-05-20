@@ -1,7 +1,7 @@
 <section class="hidden max-w-6xl mx-auto w-full" id="sectionArticles">
     <h2 class="text-[#1a2a1a] font-semibold text-2xl mb-8 select-none text-center">
      Financial Management Articles for UMKM Helm &amp; Cuci Helm
-    </h2>
+    </h2>s
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
      <article class="bg-white rounded-lg shadow-md p-6 flex flex-col border-2 border-[#4a5a4a]">
       <img alt="Illustration of a small business owner planning finances with charts and notes on a desk" class="rounded-lg mb-4 w-full object-cover h-48" height="300" src="https://storage.googleapis.com/a1aa/image/92431ef4-afe5-46df-7c1c-8dee7f85bf88.jpg" width="600"/>
@@ -76,4 +76,4 @@
       </a>
      </article>
     </div>
-   </section>
+</section>

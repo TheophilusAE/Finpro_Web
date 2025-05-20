@@ -24,19 +24,4 @@
      Articles
     </button>
    </nav>
-   <div class="mt-auto bg-[#1a2a1a] rounded-none p-6 text-white flex flex-col items-center text-center" style="border-bottom-right-radius: 1rem;">
-    <div class="text-sm font-semibold mb-1 flex items-center justify-center gap-1">
-     Get Premium
-     <i class="fas fa-star text-yellow-400">
-     </i>
-    </div>
-    <div class="text-[10px] mb-3 leading-[1.1]">
-     Unlimited transfer and
-     <br/>
-     statistics memory
-    </div>
-    <button class="bg-[#f9fdf8] text-[#1a2a1a] text-[10px] font-semibold rounded-full py-1 px-6 w-[90px] hover:bg-[#d9e6d9] transition">
-     Upgrade
-    </button>
-   </div>
   </aside>
