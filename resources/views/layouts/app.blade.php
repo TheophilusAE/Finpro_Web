@@ -9,7 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;display=swap" rel="stylesheet"/>
     <link rel="stylesheet" href="{{ asset('CSS/style.css') }}">
 </head>
-<body class="min-h-screen bg-gradient-to-tr from-[#4a6a5a] via-[#5a7a6a] to-[#6a8a7a] flex">
+<body class="min-h-screen bg-gradient-to-tr from-[#4a6a5a] via-[#5a7ea6a] to-[#6a8a7a] flex">
     @include('partials.sidebar')   
   <div class="fixed inset-0 bg-black bg-opacity-30 hidden z-40 md:hidden" id="overlay">
   </div>
